@@ -60,17 +60,19 @@ jobs:
 
           git add data/
 
-          # Create commit message with summary
+          # Create commit message
           PRODUCTS=$(jq '.count' data/products.json)
           COLLECTIONS=$(jq '.count' data/collections.json)
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
 
-          git commit -m "📦 Data update: ${PRODUCTS} products, ${COLLECTIONS} collections
+          # Use a temp file for the commit message to handle multiline
+          echo "📦 Data update: ${PRODUCTS} products, ${COLLECTIONS} collections" > /tmp/commit_msg.txt
+          echo "" >> /tmp/commit_msg.txt
+          echo "Scraped at: ${TIMESTAMP}" >> /tmp/commit_msg.txt
+          echo "" >> /tmp/commit_msg.txt
+          head -30 data/latest_summary.txt >> /tmp/commit_msg.txt
 
-Scraped at: ${TIMESTAMP}
-
-$(cat data/latest_summary.txt | head -30)"
-
+          git commit -F /tmp/commit_msg.txt
           git push
 
       - name: No changes detected
