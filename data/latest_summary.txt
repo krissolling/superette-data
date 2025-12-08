@@ -1,26 +1,13 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-08 11:50 UTC
+SUPERETTE DATA SCRAPE - 2025-12-08 15:40 UTC
 ============================================================
 
 📦 Total Products: 493
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 493
+   ➕ New products: 0
    ➖ Removed products: 0
    🔄 Updated products: 0
-
-   NEW PRODUCTS:
-      • Chilli Chan Noodle Box - Vegan XO Sauce (£5.80) - Chilli Chans
-      • Chilli Chan Noodle Box - Spicy Sichuan (£5.80) - Chilli Chans
-      • Chilli Chan Noodle Box - Sesame & Soy (£5.80) - Chilli Chans
-      • Salted Butter Caramels (£8.40) - Victus
-      • Something & Nothing Ginger & Lime (£2.00) - Something & Nothing
-      • Cote Citron 330ml (£3.35) - Cote
-      • Lutenitsa Dip in Jar 300g (£5.50) - Rila Balkan Goods
-      • Silk Road Cook Book - Anna Ansari (£26.00) - Anna Ansari
-      • Tickle Your Pickle Cook Book by James Cooper & Natalie Preston (£16.99) - Shedletsky's
-      • Long Day, Cook This Book by Justin Tsang (£26.00) - Justin Tsang
-      ... and 483 more
 
 ============================================================
