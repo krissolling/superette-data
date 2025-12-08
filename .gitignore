@@ -18,6 +18,11 @@ env/
 .DS_Store
 Thumbs.db
 
-# Test files (keep data/ tracked)
+# Test files
 sample_data.json
 fetch_sample.py
+
+# Old JSON data files (now using SQLite)
+data/products.json
+data/collections.json
+data/changelog.json

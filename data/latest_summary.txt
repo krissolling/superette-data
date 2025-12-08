@@ -1,26 +1,26 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-08 11:31 UTC
+SUPERETTE DATA SCRAPE - 2025-12-08 11:50 UTC
 ============================================================
 
 📦 Total Products: 493
 📁 Total Collections: 48
 
-📊 CHANGES DETECTED:
-   ➕ New products: 0
+📊 CHANGES:
+   ➕ New products: 493
    ➖ Removed products: 0
-   🔄 Updated products: 493
+   🔄 Updated products: 0
 
-   UPDATED PRODUCTS:
-      • Honest Umami Salt & Pepper MSG Flavour Boost: metadata updated
-      • Saint Ogun Rum 70cl: metadata updated
-      • Seggiano Basil Pasta Sauce: metadata updated
-      • Cradoc's Szechuan Pepper, Fennel & Red Onion Crackers: metadata updated
-      • Thiccc Sauce Bourbon BBQ Sriracha: metadata updated
-      • Poons Extraordinary Chilli Oil: metadata updated
-      • Silver Circle Bloody Mary: metadata updated
-      • Heist Chocolate Milk: metadata updated
-      • Hawkens Gingerbread Magic Stars: metadata updated
-      • Woven Homemade Whisky: metadata updated
+   NEW PRODUCTS:
+      • Chilli Chan Noodle Box - Vegan XO Sauce (£5.80) - Chilli Chans
+      • Chilli Chan Noodle Box - Spicy Sichuan (£5.80) - Chilli Chans
+      • Chilli Chan Noodle Box - Sesame & Soy (£5.80) - Chilli Chans
+      • Salted Butter Caramels (£8.40) - Victus
+      • Something & Nothing Ginger & Lime (£2.00) - Something & Nothing
+      • Cote Citron 330ml (£3.35) - Cote
+      • Lutenitsa Dip in Jar 300g (£5.50) - Rila Balkan Goods
+      • Silk Road Cook Book - Anna Ansari (£26.00) - Anna Ansari
+      • Tickle Your Pickle Cook Book by James Cooper & Natalie Preston (£16.99) - Shedletsky's
+      • Long Day, Cook This Book by Justin Tsang (£26.00) - Justin Tsang
       ... and 483 more
 
 ============================================================

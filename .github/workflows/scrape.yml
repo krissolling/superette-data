@@ -60,9 +60,9 @@ jobs:
 
           git add data/
 
-          # Create commit message
-          PRODUCTS=$(jq '.count' data/products.json)
-          COLLECTIONS=$(jq '.count' data/collections.json)
+          # Create commit message - extract counts from SQLite
+          PRODUCTS=$(sqlite3 data/superette.db "SELECT COUNT(*) FROM products WHERE is_active = 1")
+          COLLECTIONS=$(sqlite3 data/superette.db "SELECT COUNT(*) FROM collections WHERE is_active = 1")
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
 
           # Use a temp file for the commit message to handle multiline
