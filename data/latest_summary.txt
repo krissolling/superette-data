@@ -1,10 +1,26 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-08 11:28 UTC
+SUPERETTE DATA SCRAPE - 2025-12-08 11:31 UTC
 ============================================================
 
 📦 Total Products: 493
 📁 Total Collections: 48
 
-🆕 First run - initial data captured
+📊 CHANGES DETECTED:
+   ➕ New products: 0
+   ➖ Removed products: 0
+   🔄 Updated products: 493
+
+   UPDATED PRODUCTS:
+      • Honest Umami Salt & Pepper MSG Flavour Boost: metadata updated
+      • Saint Ogun Rum 70cl: metadata updated
+      • Seggiano Basil Pasta Sauce: metadata updated
+      • Cradoc's Szechuan Pepper, Fennel & Red Onion Crackers: metadata updated
+      • Thiccc Sauce Bourbon BBQ Sriracha: metadata updated
+      • Poons Extraordinary Chilli Oil: metadata updated
+      • Silver Circle Bloody Mary: metadata updated
+      • Heist Chocolate Milk: metadata updated
+      • Hawkens Gingerbread Magic Stars: metadata updated
+      • Woven Homemade Whisky: metadata updated
+      ... and 483 more
 
 ============================================================
