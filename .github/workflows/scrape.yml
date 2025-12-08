@@ -1,0 +1,85 @@
+name: Scrape Superette Data
+
+on:
+  schedule:
+    # Run daily at 2:00 AM UTC
+    - cron: '0 2 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Also run on push to main (for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'scraper.py'
+      - '.github/workflows/scrape.yml'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        id: scrape
+        run: python scraper.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if [[ -n $(git status --porcelain data/) ]]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add data/
+
+          # Create commit message with summary
+          PRODUCTS=$(jq '.count' data/products.json)
+          COLLECTIONS=$(jq '.count' data/collections.json)
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+
+          git commit -m "📦 Data update: ${PRODUCTS} products, ${COLLECTIONS} collections
+
+Scraped at: ${TIMESTAMP}
+
+$(cat data/latest_summary.txt | head -30)"
+
+          git push
+
+      - name: No changes detected
+        if: steps.changes.outputs.has_changes == 'false'
+        run: echo "No changes detected in data, skipping commit."
+
+      - name: Upload data artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: superette-data-${{ github.run_number }}
+          path: data/
+          retention-days: 30
