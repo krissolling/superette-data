@@ -1,26 +1,21 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-10 03:26 UTC
+SUPERETTE DATA SCRAPE - 2025-12-11 03:37 UTC
 ============================================================
 
-📦 Total Products: 501
+📦 Total Products: 499
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 8
-   ➖ Removed products: 0
-   🔄 Updated products: 1
+   ➕ New products: 1
+   ➖ Removed products: 3
+   🔄 Updated products: 0
 
    NEW PRODUCTS:
-      • Bombom Kimchi Mayo (£6.90) - Bombom
-      • Oat Cult Overnight Gut Oats | Cocao Chip (£2.40) - Oat Cult
-      • Oat Cult Overnight Gut Oats | Cinnamon Mix (£2.40) - Oat Cult
-      • Oat Cult Overnight Gut Oats | Strawberry Mix (£2.40) - Oat Cult
-      • Flossie Candy Floss Birthday Cake (£4.55) - Flossie
-      • Flossie Candy Floss Galaxy Grape (£4.55) - Flossie
-      • Flossie Candy Floss Pink Vanilla (£4.55) - Flossie
-      • Flossie Candy Floss Blue Raspberry (£4.55) - Flossie
+      • Chilli Zapp (£7.15) - Chilli Zap
 
-   UPDATED PRODUCTS:
-      • Fournier Cidre de Normandie: price: 0.00 → 10.50
+   REMOVED PRODUCTS:
+      • YiaYia Basil Extra Virgin Olive Oil 200ml - YiaYia
+      • Conbini Onsen Hot Sauce - Conbini
+      • Dr Sting's Hot Honey - Dr Sting
 
 ============================================================
