@@ -1,21 +1,26 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-11 03:37 UTC
+SUPERETTE DATA SCRAPE - 2025-12-12 03:27 UTC
 ============================================================
 
-📦 Total Products: 499
+📦 Total Products: 488
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 1
-   ➖ Removed products: 3
+   ➕ New products: 0
+   ➖ Removed products: 11
    🔄 Updated products: 0
 
-   NEW PRODUCTS:
-      • Chilli Zapp (£7.15) - Chilli Zap
-
    REMOVED PRODUCTS:
-      • YiaYia Basil Extra Virgin Olive Oil 200ml - YiaYia
-      • Conbini Onsen Hot Sauce - Conbini
-      • Dr Sting's Hot Honey - Dr Sting
+      • Chimac Korean Hot Sauce - Chimac
+      • Ocelot Chocolate Buckwheat - Ocelot
+      • Perello Cocktail Gherkins - Brindisa
+      • London Borough of Jam London & Vanilla Marmalade - London Borough of Jam
+      • Apostle Saint Francis - Kimchi Ketchup 150ml - Apostle
+      • Pickle Project Really Good Pickles - Pickle Project
+      • ATI Manel Spiced Mussels In Pickled Sauce - Ati Manel
+      • Minerva Mackerel Pâté - Minerva
+      • La Sablesienne Les Petits Sables - Raspberry - La Sablesienne
+      • ATI Manel Sardines In Olive Oil with Lemon - Ati Manel
+      ... and 1 more
 
 ============================================================
