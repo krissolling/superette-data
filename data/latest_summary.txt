@@ -1,26 +1,36 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-12 03:27 UTC
+SUPERETTE DATA SCRAPE - 2025-12-13 03:20 UTC
 ============================================================
 
-📦 Total Products: 488
+📦 Total Products: 487
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 0
-   ➖ Removed products: 11
-   🔄 Updated products: 0
+   ➕ New products: 4
+   ➖ Removed products: 5
+   🔄 Updated products: 1
+
+   NEW PRODUCTS:
+      • Moi Moi Sauce (£9.00) - Moi Moi
+      • Skunk Hand Balm (£12.00) - Skunk
+      • Heist Chocolate Dark Orange Bar (£6.75) - Heist
+      • Heist Chocolate Dark (£6.95) - Heist
 
    REMOVED PRODUCTS:
-      • Chimac Korean Hot Sauce - Chimac
-      • Ocelot Chocolate Buckwheat - Ocelot
-      • Perello Cocktail Gherkins - Brindisa
-      • London Borough of Jam London & Vanilla Marmalade - London Borough of Jam
-      • Apostle Saint Francis - Kimchi Ketchup 150ml - Apostle
-      • Pickle Project Really Good Pickles - Pickle Project
-      • ATI Manel Spiced Mussels In Pickled Sauce - Ati Manel
-      • Minerva Mackerel Pâté - Minerva
-      • La Sablesienne Les Petits Sables - Raspberry - La Sablesienne
-      • ATI Manel Sardines In Olive Oil with Lemon - Ati Manel
-      ... and 1 more
+      • Molino Mandarin Olive Oil - Superette Store
+      • Koff-ee-Hamper - Superette Store
+      • Ride & Grind Rocket Fuel - Ride & Grind
+      • The Smoked Nut Company Hickory Cashews - The Real Smoked Nut Company
+      • Le Bon Garcon Sea Salt Caramels - Le Bon Garcon
+
+   UPDATED PRODUCTS:
+      • Presto Instant Decaf Coffee: price: 7.40 → 8.30
+
+   COLLECTION CHANGES:
+      • Beer & cider: 19 → 18 (-1)
+      • Cereals: 11 → 14 (+3)
+      • Crisps & snacks: 47 → 44 (-3)
+      • Hot sauces: 48 → 49 (+1)
+      • Lifestyle: 31 → 32 (+1)
 
 ============================================================
