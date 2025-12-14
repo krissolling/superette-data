@@ -1,36 +1,19 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-13 03:20 UTC
+SUPERETTE DATA SCRAPE - 2025-12-14 03:41 UTC
 ============================================================
 
-📦 Total Products: 487
+📦 Total Products: 490
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 4
-   ➖ Removed products: 5
-   🔄 Updated products: 1
+   ➕ New products: 1
+   ➖ Removed products: 1
+   🔄 Updated products: 0
 
    NEW PRODUCTS:
-      • Moi Moi Sauce (£9.00) - Moi Moi
-      • Skunk Hand Balm (£12.00) - Skunk
-      • Heist Chocolate Dark Orange Bar (£6.75) - Heist
-      • Heist Chocolate Dark (£6.95) - Heist
+      • Slow Beam Pet Nat (£23.00) - Slow Beam
 
    REMOVED PRODUCTS:
-      • Molino Mandarin Olive Oil - Superette Store
-      • Koff-ee-Hamper - Superette Store
-      • Ride & Grind Rocket Fuel - Ride & Grind
-      • The Smoked Nut Company Hickory Cashews - The Real Smoked Nut Company
-      • Le Bon Garcon Sea Salt Caramels - Le Bon Garcon
-
-   UPDATED PRODUCTS:
-      • Presto Instant Decaf Coffee: price: 7.40 → 8.30
-
-   COLLECTION CHANGES:
-      • Beer & cider: 19 → 18 (-1)
-      • Cereals: 11 → 14 (+3)
-      • Crisps & snacks: 47 → 44 (-3)
-      • Hot sauces: 48 → 49 (+1)
-      • Lifestyle: 31 → 32 (+1)
+      • YiaYia Lemon Extra Virgin Olive Oil 200ml - YiaYia
 
 ============================================================
