@@ -1,19 +1,16 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-14 03:41 UTC
+SUPERETTE DATA SCRAPE - 2025-12-15 03:45 UTC
 ============================================================
 
 📦 Total Products: 490
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 1
+   ➕ New products: 0
    ➖ Removed products: 1
    🔄 Updated products: 0
 
-   NEW PRODUCTS:
-      • Slow Beam Pet Nat (£23.00) - Slow Beam
-
    REMOVED PRODUCTS:
-      • YiaYia Lemon Extra Virgin Olive Oil 200ml - YiaYia
+      • Hard Lines House Party Coffee Pods - Hard Lines
 
 ============================================================
