@@ -1,16 +1,21 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-15 03:45 UTC
+SUPERETTE DATA SCRAPE - 2025-12-16 03:38 UTC
 ============================================================
 
-📦 Total Products: 490
+📦 Total Products: 487
 📁 Total Collections: 48
 
 📊 CHANGES:
    ➕ New products: 0
-   ➖ Removed products: 1
-   🔄 Updated products: 0
+   ➖ Removed products: 3
+   🔄 Updated products: 1
 
    REMOVED PRODUCTS:
-      • Hard Lines House Party Coffee Pods - Hard Lines
+      • Coffee Dunkers Sicilian Lemon - Coffee Dunkers
+      • Apostle Saint Francis - Kimchi Ketchup 150ml - Apostle
+      • Team Tartufi Truffle Hot Sauce - Team Tartufi
+
+   UPDATED PRODUCTS:
+      • Spaghetti Dust: price: 7.50 → 7.95
 
 ============================================================
