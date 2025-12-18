@@ -1,34 +1,13 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-17 03:24 UTC
+SUPERETTE DATA SCRAPE - 2025-12-18 03:25 UTC
 ============================================================
 
 📦 Total Products: 495
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 11
-   ➖ Removed products: 6
+   ➕ New products: 0
+   ➖ Removed products: 0
    🔄 Updated products: 0
-
-   NEW PRODUCTS:
-      • Charbonnel et Walker Sea Salt Pistachios (£26.50) - Charbonnel Walker
-      • Fitzbillies Chelsea Bun Biscuit (£6.25) - Fitzbillies
-      • Lucid Chocolate Cookie Dough (£2.90) - Lucid
-      • Cosmic Dealer Peanut Butter with Smoked Salt (£14.50) - Cosmic Dealer
-      • Cosmic Dealer Chakra Chocolate Box (£29.90) - Cosmic Dealer
-      • Grette Miso Vinaigrette (£8.40) - Grette
-      • Jemima's Tahini Grain (£8.20) - Jemima's
-      • Pandeli Makhani (£8.75) - Pandeli
-      • London Borough of Jam Chuckleberry (£6.85) - London Borough of Jam
-      • Thiccc Seoul Food Hot Sauce (£7.75) - Thiccc Sauce
-      ... and 1 more
-
-   REMOVED PRODUCTS:
-      • Halfway Kitchen Chilli Oil - Halfway Kitchen
-      • Meurisse Chocolate Dark orange - Meurisse
-      • Calasparra Rice - Brindisa
-      • Kick Chilli Oil - Kick
-      • Salted Butter Caramels - Victus
-      • Brets Curry Sauce Crisps - Brets
 
 ============================================================
