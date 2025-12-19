@@ -1,13 +1,23 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-18 03:25 UTC
+SUPERETTE DATA SCRAPE - 2025-12-19 03:36 UTC
 ============================================================
 
-📦 Total Products: 495
+📦 Total Products: 494
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 0
-   ➖ Removed products: 0
+   ➕ New products: 1
+   ➖ Removed products: 2
    🔄 Updated products: 0
+
+   NEW PRODUCTS:
+      • Deeno's Extra Virgin Olive Oil (£15.50) - Deeno's
+
+   REMOVED PRODUCTS:
+      • Few Bourbon Whisky - Few
+      • Koff-ee-Hamper - Superette Store
+
+   COLLECTION CHANGES:
+      • Vinegars, oils and seasoning: 59 → 60 (+1)
 
 ============================================================
