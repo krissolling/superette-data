@@ -1,23 +1,17 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-19 03:36 UTC
+SUPERETTE DATA SCRAPE - 2025-12-20 03:20 UTC
 ============================================================
 
-📦 Total Products: 494
+📦 Total Products: 492
 📁 Total Collections: 48
 
 📊 CHANGES:
-   ➕ New products: 1
+   ➕ New products: 0
    ➖ Removed products: 2
    🔄 Updated products: 0
 
-   NEW PRODUCTS:
-      • Deeno's Extra Virgin Olive Oil (£15.50) - Deeno's
-
    REMOVED PRODUCTS:
-      • Few Bourbon Whisky - Few
-      • Koff-ee-Hamper - Superette Store
-
-   COLLECTION CHANGES:
-      • Vinegars, oils and seasoning: 59 → 60 (+1)
+      • Ati Manel Smoked Mackerel Pate - Ati Manel
+      • England Preserves London Marmalade - England Preserves
 
 ============================================================
