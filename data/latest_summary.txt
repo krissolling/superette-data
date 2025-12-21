@@ -1,5 +1,5 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-20 03:20 UTC
+SUPERETTE DATA SCRAPE - 2025-12-21 03:42 UTC
 ============================================================
 
 📦 Total Products: 492
@@ -7,11 +7,7 @@ SUPERETTE DATA SCRAPE - 2025-12-20 03:20 UTC
 
 📊 CHANGES:
    ➕ New products: 0
-   ➖ Removed products: 2
+   ➖ Removed products: 0
    🔄 Updated products: 0
-
-   REMOVED PRODUCTS:
-      • Ati Manel Smoked Mackerel Pate - Ati Manel
-      • England Preserves London Marmalade - England Preserves
 
 ============================================================
