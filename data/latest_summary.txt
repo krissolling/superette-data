@@ -1,19 +1,16 @@
 ============================================================
-SUPERETTE DATA SCRAPE - 2025-12-23 03:39 UTC
+SUPERETTE DATA SCRAPE - 2025-12-24 03:37 UTC
 ============================================================
 
-📦 Total Products: 488
+📦 Total Products: 487
 📁 Total Collections: 48
 
 📊 CHANGES:
    ➕ New products: 0
-   ➖ Removed products: 4
+   ➖ Removed products: 1
    🔄 Updated products: 0
 
    REMOVED PRODUCTS:
-      • Seggiano Chocolate Panettone - Seggiano
-      • Flossie Candy Floss Galaxy Grape - Flossie
-      • Moi Moi Sauce - Moi Moi
-      • Flossie Candy Floss Pink Vanilla - Flossie
+      • Gadeschi Amaretti Biscuits Gift Tin - Superette Store
 
 ============================================================
